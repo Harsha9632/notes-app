@@ -1,0 +1,18 @@
+.app-container {
+  display: flex;
+  height: 100vh;
+  background-color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.select-message {
+  margin-top: 100px;
+  text-align: center;
+  color: #999;
+}

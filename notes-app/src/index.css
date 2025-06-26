@@ -1,0 +1,16 @@
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.select-message {
+  margin-top: 100px;
+  text-align: center;
+  color: gray;
+}

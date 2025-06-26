@@ -1,0 +1,30 @@
+.notes-list-container {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.notes-list-container h2 {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.no-notes {
+  color: gray;
+  font-style: italic;
+}
+
+.notes-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.note-item {
+  background-color: #f0f0f0;
+  margin-bottom: 8px;
+  padding: 10px;
+  border-radius: 6px;
+}
